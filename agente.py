@@ -31,5 +31,4 @@ def run_agente():
         print ("Reproduciendo " + music)
         talk("Reproduciendo " + music)
 
-if __name__ == '_main_':
-    run_agente()
+
